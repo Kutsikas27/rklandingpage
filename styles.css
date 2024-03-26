@@ -1,0 +1,14 @@
+body,
+nav {
+  background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(to right, rgb(0, 0, 0), #1f1302);
+}
+.col {
+  margin-top: 20%;
+}
+.col {
+  text-align: left;
+}
+h4 {
+  margin-top: 15px;
+}
