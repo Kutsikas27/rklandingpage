@@ -5,11 +5,12 @@ body {
 .navbarcontainer {
   background-color: rgb(0, 0, 0);
   background-image: linear-gradient(to right, rgb(4, 3, 3), #281a05);
-  padding: 16px;
+  padding: 16px, 0;
 }
 
 .col-md {
   text-align: left;
+  padding: 20px;
 }
 h1 {
   margin-top: 40px;
