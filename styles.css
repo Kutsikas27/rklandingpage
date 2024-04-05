@@ -1,23 +1,22 @@
-body,
-nav {
+body {
   background-color: rgb(0, 0, 0);
   background-image: linear-gradient(to right, rgb(0, 0, 0), #1f1302);
 }
-.col {
-  margin-top: 20%;
+.navbarcontainer {
+  background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(to right, rgb(4, 3, 3), #281a05);
+  padding: 16px;
 }
-.col {
+
+.col-md {
   text-align: left;
+}
+h1 {
+  margin-top: 40px;
 }
 h4 {
   margin-top: 15px;
 }
 nav {
   width: 100%;
-}
-.navbar-brand {
-  margin-left: 5vh;
-}
-.goodreads {
-  margin-right: 5vh;
 }
