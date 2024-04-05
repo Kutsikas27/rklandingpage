@@ -12,3 +12,12 @@ nav {
 h4 {
   margin-top: 15px;
 }
+nav {
+  width: 100%;
+}
+.navbar-brand {
+  margin-left: 5vh;
+}
+.goodreads {
+  margin-right: 5vh;
+}
